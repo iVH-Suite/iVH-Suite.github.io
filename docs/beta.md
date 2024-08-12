@@ -1,5 +1,5 @@
 ---
-title: V1-SAMPLE
+title: iSuite Beta
 description: This is a new pageasdf
 layout: default
 ---
