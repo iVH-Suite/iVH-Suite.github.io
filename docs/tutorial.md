@@ -1,6 +1,6 @@
 ---
-title: Test
-description: This is a new pageasdf
+title: Tutorial
+description: This is a tutorial
 layout: default
 ---
 
