@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
 Multi-engineering modelling and simulation based on Modelica and FMI
